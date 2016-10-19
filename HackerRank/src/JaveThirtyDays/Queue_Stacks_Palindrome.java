@@ -4,8 +4,6 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Stack;
 
-import org.junit.Test;
-
 public class Queue_Stacks_Palindrome {
 	Queue<Character> queue = new LinkedList<>();
 	Stack<Character> stack = new Stack<>();
