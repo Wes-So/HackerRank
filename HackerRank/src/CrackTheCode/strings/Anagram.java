@@ -1,4 +1,4 @@
-package CrackTheCode;
+package CrackTheCode.strings;
 
 import java.util.Arrays;
 import java.util.HashMap;
