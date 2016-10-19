@@ -1,4 +1,4 @@
-package CrackTheCode;
+package CrackTheCode.stacks;
 
 import java.util.Arrays;
 import java.util.Stack;
